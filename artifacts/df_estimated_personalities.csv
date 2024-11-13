@@ -1,0 +1,5 @@
+personality,acceptedMinInterest,acceptedMaxInterest,happinessEffect,min_months,max_months
+Conservative,0.001,0.01,1.0,0,36
+Innovative,0.02,0.05,1.0,0,108
+RiskTaker,0.02,0.1,0.3770856507230256,0,72
+Spontaneous,0.02,0.1,1.0,0,180

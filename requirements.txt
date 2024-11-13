@@ -1,0 +1,5 @@
+pandas==2.2.3
+seaborn==0.13.2
+requests==2.32.3
+scikit_optimize==0.10.2
+pulp==2.9.0
